@@ -1,0 +1,5 @@
+﻿enum Faction
+{
+    CSharp,
+    Java
+}
